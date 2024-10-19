@@ -1,0 +1,11 @@
+/* src/App.css */
+.App {
+  height: 100vh; /* Full viewport height */
+  background-image: url('./images/mild.jpg'); /* Corrected image path */
+  background-size: cover; /* Cover the entire area */
+  background-position: center; /* Center the image */
+  display: flex;
+  flex-direction: column; /* Stack child elements vertically */
+  justify-content: center; /* Center content vertically */
+  align-items: center; /* Center content horizontally */
+}
